@@ -16,5 +16,29 @@
 |[Euclid – das neue Weltraumteleskop](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12182.html) |[Video]()|
 |[The Extremely Large Telescope (ELT)](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12020.html) |[Video]()|
 |[Breaking "DRM" in Polish trains](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12142.html) |[Video]()|
+
+## Day 2
+
+| title | - |
+|---|---|
+|[Why Railway Is Safe But Not Secure](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/11717.html) |[Video]()|
+|[Hirne hacken: Hackback Edition](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12134.html) |[Video]()|
+|[A NEW HOPE [de]](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/11904.html) |[Video]()|
+
+## Day 3
+
+| title | - |
+|---|---|
+|[How Many Planets in Our Solar System? Glad You Asked!](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/11734.html) |[Video]()|
+|[Heimlich-Manöver](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/11689.html) |[Video]()|
+|[How to build a submarine and survive](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/11828.html) |[Video]()|
+|[RFC 9420 or how to scale end-to-end encryption with Messaging Layer Security](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12064.html) |[Video]()|
+
+## Day 4
+
+| title | - |
+|---|---|
+|[Oh no: KUNO - Gesperrte Girocards entsperren](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/11826.html) |[Video]()|
+|[Security Nightmares](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12224.html) |[Video]()|
 |[xxx](xxx) |[Video]()|
 |[xxx](xxx) |[Video]()|
