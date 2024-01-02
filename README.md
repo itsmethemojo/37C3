@@ -1,5 +1,7 @@
 # 37C3 talk recommendations
 
+Talks Media can be found [here](https://media.ccc.de/c/37c3)
+
 
 ## Day 1
 
